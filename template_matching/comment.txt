@@ -1,0 +1,1 @@
+not a good algorithm because template need to be exact/almost exactly similar with the goal image part need to recognize
